@@ -21,4 +21,5 @@ npm install express -save
 ### 3. 서버 구축
 ``` bash
 node server.js
+npm start
 ```
