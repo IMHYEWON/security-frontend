@@ -23,3 +23,11 @@ npm install express -save
 node server.js
 npm start
 ```
+
+### 4. 정적 리소스 전달
+
+### 5. 호스트명 변경하기 
+``` bash
+127.0.0.1       site.hyewon
+```
+![Alt text](image.png)
